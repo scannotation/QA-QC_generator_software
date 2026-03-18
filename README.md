@@ -1,3 +1,4 @@
+![QA/QC generator](QA-QC_generator_logo_git.png)
 The QA/QC generator evaluates the completeness and robustness of MS1 HRMS data preprocessing.
 This tool produces harmonized PARC QA/QC preprocessing outputs and automatically generates a report based on the HBM4EU analytical QA/QC framework and additional project-specific criteria (for further details, please refer to: https://www.sciencedirect.com/science/article/abs/pii/S0165993624001560?via%3Dihub).
 \
