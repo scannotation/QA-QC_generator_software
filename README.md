@@ -8,10 +8,10 @@ For more information, you can view the video tutorial [on YouTube](https://youtu
 or by downloading the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip).
 
 ## Development
-QA-QC generator was developed in Python 3.9 on Windows 11.
+QA/QC generator was developed in Python 3.9 on Windows 11.
 
 ## Tutorial
-To get started with QA-QC generator, you can view the video tutorial:
+To get started with QA/QC generator, you can view the video tutorial:
 * either [on YouTube](https://youtu.be/i5L9XoOHnlY) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
