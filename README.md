@@ -5,7 +5,7 @@ This tool produces harmonized PARC QA/QC preprocessing outputs and automatically
 \
 The tool will be available soon.
 \
-For more information, you can view the video tutorial [on YouTube](https://youtu.be/J1M0elPCFD0)
+For more information, you can view the video tutorial [on YouTube](https://youtu.be/Bdjca02ewZI)
 or by downloading the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip).
 
 ## Development
@@ -13,7 +13,7 @@ QA/QC generator was developed in Python 3.9 on Windows 11.
 
 ## Tutorial
 To get started with QA/QC generator, you can view the video tutorial:
-* either [on YouTube](https://youtu.be/J1M0elPCFD0) directly
+* either [on YouTube](https://youtu.be/Bdjca02ewZI) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
 ![tutorial_summary](QA-QC_generator-tutorial_homepage.png)
