@@ -3,7 +3,7 @@ The QA/QC generator evaluates the completeness and robustness of MS1 HRMS data p
 This tool produces harmonized PARC QA/QC preprocessing outputs and automatically generates a report based on the HBM4EU analytical QA/QC framework and additional project-specific criteria (for further details, please refer to: https://www.sciencedirect.com/science/article/abs/pii/S0165993624001560?via%3Dihub).
 \
 \
-The tool will be available soon.
+This tool has been integrated into Scannotation as a dedicated module and is now available in the [Scannotation_Scannotation_software_v4 repository](https://github.com/scannotation/Scannotation_software_v4).
 \
 For more information, you can view the video tutorial [on YouTube](https://youtu.be/hOU8aIx0kSQ)
 or by downloading the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip).
